@@ -1,1 +1,1 @@
-# Electricity-Price-Prediction-System
+# electricity-price-predictor-using-random-forest-regression
